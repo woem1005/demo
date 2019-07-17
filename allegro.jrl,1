@@ -1,0 +1,19 @@
+\t (00:00:01) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:01)     Journal start - Wed Jul 17 12:13:32 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=7144 CPUs=4
+\t (00:00:01) CmdLine= allegro.exe -p .
+\t (00:00:01) 
+   (00:00:01) ilinit Start.
+   (00:00:01) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\e (00:00:04) Retrieval of 'Allegro_studio' license failed: 'ERROR (LMF-13097): License call failed for feature PCB_design_studio. The license server search path is defined as 5286@localhost. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-97, 234, 0): The desired vendor daemon is down.
+
+Run 'lic_error LMF-13097' for more information.'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:05) fillin confirm
+\i (00:00:06) fillin Allegro_performance    
+\e (00:00:06) Retrieval of 'Allegro_studio' license failed: 'ERROR (LMF-13097): License call failed for feature PCB_design_studio. The license server search path is defined as 5286@localhost. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-97, 234, 0): The desired vendor daemon is down.
+
+Run 'lic_error LMF-13097' for more information.'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:07) fillin confirm
+\t (00:00:08)     Journal end - Wed Jul 17 12:13:38 2019

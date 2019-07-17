@@ -1,0 +1,45 @@
+\t (00:00:04) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:04)     Journal start - Wed Jul 17 12:13:48 2019
+\t (00:00:04)         Host=USER-PC User=user Pid=5756 CPUs=4
+\t (00:00:04) CmdLine= allegro.exe -p .
+\t (00:00:04) 
+   (00:00:04) ilinit Start.
+   (00:00:04) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:06) Starting new design...
+\i (00:00:06) trapsize 4023
+\i (00:00:06) trapsize 3848
+\i (00:00:06) trapsize 4053
+\i (00:00:06) trapsize 3051
+\i (00:00:06) trapsize 3051
+\i (00:00:06) generaledit 
+\i (00:00:08) trapsize 1442
+\i (00:00:10) pick grid 280.828 126.575
+\t (00:00:10) last pick:  281.940 127.000
+\i (00:00:21) new 
+\i (00:00:23) newdrawfillin "menu_cancel"
+\i (00:00:23) generaledit 
+\i (00:00:23) pick grid 311.391 116.483
+\t (00:00:23) last pick:  312.420 116.840
+\i (00:00:30) trapsize 1663
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 266.701 133.351
+\i (00:00:38) trapsize 2685
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 430.726 215.363
+\i (00:00:38) trapsize 2685
+\i (00:00:38) zoom out 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom out 430.726 215.363
+\i (00:00:38) trapsize 2685
+\t (00:00:44) last pick:  754.576 379.705
+\w (00:00:45) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:01:14) pick grid 324.387 359.296
+\t (00:01:14) last pick:  325.120 358.140
+\i (00:01:22) open 
+\i (00:01:44) fillin "C:\Users\user\Desktop\workspace\samples\layout_samples_r02\layout_samples_r02\demoa\demoa2.brd"
+\i (00:01:44) cd "C:\Users\user\Desktop\workspace\samples\layout_samples_r02\layout_samples_r02\demoa"
+\t (00:01:44) Opening existing design...
+\i (00:01:44) trapsize 334
+\t (00:01:44)     Journal end - Wed Jul 17 12:15:28 2019
