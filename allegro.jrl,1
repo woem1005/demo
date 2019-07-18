@@ -1,19 +1,1132 @@
-\t (00:00:01) allegro 16.6 S034 (v16-6-112CQ) Windows 32
-\t (00:00:01)     Journal start - Wed Jul 17 12:13:32 2019
-\t (00:00:01)         Host=USER-PC User=user Pid=7144 CPUs=4
-\t (00:00:01) CmdLine= allegro.exe -p .
-\t (00:00:01) 
-   (00:00:01) ilinit Start.
-   (00:00:01) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
-\e (00:00:04) Retrieval of 'Allegro_studio' license failed: 'ERROR (LMF-13097): License call failed for feature PCB_design_studio. The license server search path is defined as 5286@localhost. The FLEXnet error message is as follows,
-    FLEXnet ERROR(-97, 234, 0): The desired vendor daemon is down.
-
-Run 'lic_error LMF-13097' for more information.'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
-\i (00:00:05) fillin confirm
-\i (00:00:06) fillin Allegro_performance    
-\e (00:00:06) Retrieval of 'Allegro_studio' license failed: 'ERROR (LMF-13097): License call failed for feature PCB_design_studio. The license server search path is defined as 5286@localhost. The FLEXnet error message is as follows,
-    FLEXnet ERROR(-97, 234, 0): The desired vendor daemon is down.
-
-Run 'lic_error LMF-13097' for more information.'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
-\i (00:00:07) fillin confirm
-\t (00:00:08)     Journal end - Wed Jul 17 12:13:38 2019
+\t (00:00:05) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:05)     Journal start - Thu Jul 18 09:44:10 2019
+\t (00:00:05)         Host=USER-PC User=user Pid=6232 CPUs=4
+\t (00:00:05) CmdLine= allegro.exe -p .
+\t (00:00:05) 
+   (00:00:05) ilinit Start.
+   (00:00:05) "C:/Users/user/Desktop/vscode_orcad/home/pcbenv"
+\t (00:00:07) Starting new design...
+\i (00:00:07) trapsize 1627
+\i (00:00:07) trapsize 1598
+\i (00:00:07) trapsize 1632
+\i (00:00:07) trapsize 1741
+\i (00:00:07) trapsize 2685
+\i (00:00:08) generaledit 
+\i (00:00:10) drag_start grid 263.162 276.051
+\i (00:00:10) drag_stop 323.313 249.735
+\i (00:00:11) add connect 
+\w (00:00:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:11) Pick first element.
+\i (00:00:11) pick grid 234.697 280.885
+\t (00:00:11) last pick:  234.950 280.670
+\t (00:00:11) last pick:  234.950 280.670
+\i (00:00:14) pick grid 435.022 248.661
+\t (00:00:14) last pick:  434.975 248.920
+\t (00:00:14) No DRC errors detected.
+\i (00:00:14) toggle 
+\i (00:00:15) pick grid 471.543 256.180
+\t (00:00:15) last pick:  471.805 255.905
+\t (00:00:15) No DRC errors detected.
+\i (00:00:15) pick grid 518.804 125.136
+\t (00:00:15) last pick:  518.795 125.095
+\t (00:00:15) No DRC errors detected.
+\i (00:00:16) toggle 
+\i (00:00:17) toggle 
+\i (00:00:18) pick grid 301.293 208.918
+\t (00:00:18) last pick:  300.990 208.915
+\t (00:00:18) No DRC errors detected.
+\i (00:00:20) pick grid 170.787 194.417
+\t (00:00:20) last pick:  170.815 194.310
+\t (00:00:20) No DRC errors detected.
+\i (00:00:21) mouse_pos 170.787 207.307
+\i (00:00:21) mouse_pos 170.787 212.678
+\i (00:00:21) toggle 
+\i (00:00:21) toggle 
+\i (00:00:21) toggle 
+\i (00:00:22) toggle 
+\i (00:00:22) toggle 
+\i (00:00:22) toggle 
+\i (00:00:23) mouse_pos 178.843 209.992
+\i (00:00:23) mouse_pos 178.843 204.622
+\i (00:00:23) toggle 
+\i (00:00:23) toggle 
+\i (00:00:23) toggle 
+\i (00:00:23) toggle 
+\i (00:00:23) toggle 
+\i (00:00:23) toggle 
+\i (00:00:23) toggle 
+\i (00:00:23) toggle 
+\i (00:00:23) toggle 
+\i (00:00:23) toggle 
+\i (00:00:23) toggle 
+\i (00:00:23) toggle 
+\i (00:00:23) toggle 
+\i (00:00:23) toggle 
+\i (00:00:24) toggle 
+\i (00:00:30) pick grid 212.678 176.157
+\t (00:00:30) last pick:  212.725 175.895
+\t (00:00:30) No DRC errors detected.
+\i (00:00:33) toggle 
+\i (00:00:34) toggle 
+\i (00:00:34) toggle 
+\i (00:00:35) toggle 
+\i (00:00:35) toggle 
+\i (00:00:35) pop finish 
+\t (00:00:35) No DRC errors detected.
+\i (00:00:39) pick grid 221.271 134.803
+\t (00:00:39) last pick:  220.980 134.620
+\t (00:00:39) No DRC errors detected.
+\i (00:00:39) pop finish 
+\t (00:00:39) No DRC errors detected.
+\i (00:00:42) prepopup 392.594 94.523
+\i (00:00:47) done 
+\i (00:00:47) generaledit 
+\i (00:00:49) add connect 
+\t (00:00:49) Pick first element.
+\i (00:00:50) pick grid 492.488 318.479
+\t (00:00:50) last pick:  492.760 318.770
+\t (00:00:50) last pick:  492.760 318.770
+\i (00:00:51) pop finish 
+\t (00:00:51) No DRC errors detected.
+\t (00:00:51) Pick first element.
+\i (00:00:53) pick grid 406.021 350.166
+\t (00:00:53) last pick:  405.765 349.885
+\t (00:00:53) Pick first element.
+\t (00:00:53) last pick:  405.765 349.885
+\i (00:00:54) pick grid 501.618 349.092
+\t (00:00:54) last pick:  501.650 349.250
+\t (00:00:54) No DRC errors detected.
+\t (00:00:54) last pick:  501.015 349.885
+\i (00:00:54) pop finish 
+\t (00:00:54) No DRC errors detected.
+\i (00:00:55) pop finish 
+\t (00:00:55) No DRC errors detected.
+\i (00:00:57) zoom in 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom in 521.490 331.369
+\i (00:00:57) trapsize 1343
+\i (00:00:58) pop finish 
+\t (00:00:58) No DRC errors detected.
+\i (00:00:58) pop finish 
+\t (00:00:58) No DRC errors detected.
+\i (00:00:59) pop finish 
+\t (00:00:59) No DRC errors detected.
+\i (00:00:59) pop finish 
+\t (00:00:59) No DRC errors detected.
+\i (00:00:59) pop finish 
+\t (00:00:59) No DRC errors detected.
+\i (00:00:59) pop finish 
+\t (00:00:59) No DRC errors detected.
+\i (00:01:00) pop finish 
+\t (00:01:00) No DRC errors detected.
+\i (00:01:00) pop finish 
+\t (00:01:00) No DRC errors detected.
+\i (00:01:01) pop finish 
+\t (00:01:01) No DRC errors detected.
+\i (00:01:01) pop finish 
+\t (00:01:01) No DRC errors detected.
+\i (00:01:01) pop finish 
+\t (00:01:01) No DRC errors detected.
+\i (00:01:01) pop finish 
+\t (00:01:01) No DRC errors detected.
+\i (00:01:02) pop finish 
+\t (00:01:02) No DRC errors detected.
+\i (00:01:02) pop finish 
+\t (00:01:02) No DRC errors detected.
+\i (00:01:02) pop finish 
+\t (00:01:02) No DRC errors detected.
+\i (00:01:03) toggle 
+\i (00:01:03) toggle 
+\i (00:01:04) toggle 
+\i (00:01:04) toggle 
+\i (00:01:05) toggle 
+\i (00:01:05) pop finish 
+\t (00:01:05) No DRC errors detected.
+\i (00:01:07) pop finish 
+\t (00:01:07) No DRC errors detected.
+\i (00:01:08) pop finish 
+\t (00:01:08) No DRC errors detected.
+\i (00:01:10) pop finish 
+\t (00:01:10) No DRC errors detected.
+\i (00:01:11) pop finish 
+\t (00:01:11) No DRC errors detected.
+\e (00:01:12) Command not found: doner
+\e (00:01:14) Command not found: doner
+\e (00:01:14) Command not found: doner
+\e (00:01:14) Command not found: doner
+\e (00:01:15) Command not found: doner
+\e (00:01:15) Command not found: doner
+\e (00:01:15) Command not found: doner
+\e (00:01:15) Command not found: doner
+\e (00:01:16) Command not found: doner
+\e (00:01:16) Command not found: doner
+\e (00:01:16) Command not found: doner
+\e (00:01:17) Command not found: doner
+\e (00:01:17) Command not found: doner
+\e (00:01:17) Command not found: doner
+\e (00:01:17) Command not found: doner
+\e (00:01:17) Command not found: doner
+\e (00:01:18) Command not found: doner
+\e (00:01:18) Command not found: doner
+\e (00:01:18) Command not found: doner
+\e (00:01:18) Command not found: doner
+\e (00:01:18) Command not found: doner
+\e (00:01:19) Command not found: doner
+\e (00:01:19) Command not found: doner
+\e (00:01:19) Command not found: doner
+\e (00:01:19) Command not found: doner
+\e (00:01:20) Command not found: doner
+\e (00:01:20) Command not found: doner
+\e (00:01:20) Command not found: doner
+\i (00:01:22) toggle 
+\e (00:01:22) Command not found: doner
+\i (00:01:23) toggle 
+\e (00:01:23) Command not found: doner
+\e (00:01:24) Command not found: doner
+\i (00:01:24) toggle 
+\i (00:01:25) toggle 
+\i (00:01:25) toggle 
+\i (00:01:25) toggle 
+\i (00:01:26) toggle 
+\i (00:01:26) toggle 
+\i (00:01:26) toggle 
+\i (00:01:26) toggle 
+\i (00:01:26) toggle 
+\e (00:01:27) Command not found: doner
+\e (00:01:27) Command not found: doner
+\i (00:01:28) toggle 
+\i (00:01:28) toggle 
+\i (00:01:28) toggle 
+\i (00:01:28) toggle 
+\i (00:01:28) toggle 
+\i (00:01:29) toggle 
+\i (00:01:29) toggle 
+\i (00:01:29) toggle 
+\i (00:01:29) toggle 
+\i (00:01:29) toggle 
+\i (00:01:30) toggle 
+\i (00:01:30) toggle 
+\e (00:01:30) Command not found: doner
+\e (00:01:30) Command not found: doner
+\e (00:01:30) Command not found: doner
+\e (00:01:31) Command not found: doner
+\e (00:01:31) Command not found: doner
+\e (00:01:31) Command not found: doner
+\e (00:01:31) Command not found: doner
+\e (00:01:31) Command not found: doner
+\i (00:01:32) pop finish 
+\t (00:01:32) No DRC errors detected.
+\i (00:01:32) pop finish 
+\t (00:01:32) No DRC errors detected.
+\i (00:01:32) pop finish 
+\t (00:01:32) No DRC errors detected.
+\e (00:01:32) Command not found: doner
+\i (00:01:32) pop finish 
+\t (00:01:32) No DRC errors detected.
+\e (00:01:33) Command not found: doner
+\i (00:01:33) pop finish 
+\t (00:01:33) No DRC errors detected.
+\e (00:01:33) Command not found: doner
+\i (00:01:33) pop finish 
+\t (00:01:33) No DRC errors detected.
+\e (00:01:33) Command not found: doner
+\i (00:01:33) mouse_pos 366.910 282.228
+\i (00:01:33) pop finish 
+\t (00:01:33) No DRC errors detected.
+\e (00:01:33) Command not found: doner
+\i (00:01:33) pop finish 
+\t (00:01:33) No DRC errors detected.
+\i (00:01:33) mouse_pos 292.258 282.228
+\i (00:01:34) mouse_pos 272.655 282.765
+\i (00:01:35) pick grid 225.662 311.498
+\t (00:01:35) last pick:  225.425 311.785
+\t (00:01:35) No DRC errors detected.
+\i (00:01:36) mouse_pos 235.597 279.543
+\i (00:01:36) pop finish 
+\t (00:01:36) No DRC errors detected.
+\i (00:01:36) mouse_pos 236.134 280.080
+\i (00:01:37) mouse_pos 262.988 278.737
+\i (00:01:38) mouse_pos 239.088 279.274
+\e (00:01:38) Command not found: doner
+\i (00:01:38) mouse_pos 239.088 278.737
+\i (00:01:39) mouse_pos 244.190 279.274
+\e (00:01:40) Command not found: doner
+\i (00:01:41) tab 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) mouse_pos 244.459 280.348
+\i (00:01:41) tab
+\i (00:01:41) mouse_pos 244.996 280.886
+\i (00:01:41) mouse_pos 245.802 282.228
+\i (00:01:41) mouse_pos 247.681 281.960
+\i (00:01:41) mouse_pos 245.264 280.886
+\i (00:01:41) mouse_pos 242.579 280.617
+\i (00:01:41) mouse_pos 239.894 280.348
+\i (00:01:41) mouse_pos 237.477 280.348
+\i (00:01:41) mouse_pos 236.134 280.348
+\i (00:01:42) mouse_pos 233.181 280.886
+\i (00:01:42) mouse_pos 229.690 280.886
+\i (00:01:42) mouse_pos 225.393 281.423
+\i (00:01:42) mouse_pos 221.902 281.423
+\i (00:01:42) mouse_pos 219.217 281.691
+\i (00:01:42) mouse_pos 215.994 281.691
+\i (00:01:42) mouse_pos 211.966 281.691
+\i (00:01:42) mouse_pos 208.476 281.691
+\i (00:01:42) mouse_pos 205.253 281.691
+\i (00:01:42) mouse_pos 201.225 281.691
+\i (00:01:42) mouse_pos 198.003 281.691
+\i (00:01:42) mouse_pos 195.317 281.691
+\i (00:01:42) mouse_pos 192.364 281.691
+\i (00:01:42) mouse_pos 190.215 281.960
+\i (00:01:42) mouse_pos 185.650 281.960
+\i (00:01:42) mouse_pos 179.474 281.960
+\i (00:01:42) mouse_pos 175.446 281.960
+\i (00:01:42) mouse_pos 171.687 282.765
+\i (00:01:42) mouse_pos 169.538 283.571
+\i (00:01:42) mouse_pos 166.584 285.451
+\i (00:01:42) mouse_pos 163.899 285.988
+\i (00:01:42) mouse_pos 160.408 286.525
+\i (00:01:42) mouse_pos 156.380 287.599
+\i (00:01:42) mouse_pos 151.547 288.136
+\i (00:01:42) mouse_pos 147.519 288.941
+\i (00:01:42) mouse_pos 144.028 289.479
+\i (00:01:42) mouse_pos 140.537 290.553
+\i (00:01:42) mouse_pos 138.388 291.358
+\i (00:01:42) mouse_pos 135.703 292.164
+\i (00:01:42) mouse_pos 138.120 293.507
+\i (00:01:42) mouse_pos 141.074 296.192
+\i (00:01:42) mouse_pos 143.759 299.951
+\i (00:01:42) mouse_pos 147.250 302.637
+\i (00:01:42) mouse_pos 150.472 306.128
+\i (00:01:42) mouse_pos 154.769 309.887
+\i (00:01:42) mouse_pos 159.871 314.452
+\i (00:01:42) mouse_pos 164.705 318.749
+\i (00:01:42) mouse_pos 168.464 321.971
+\i (00:01:42) mouse_pos 172.224 324.656
+\i (00:01:42) mouse_pos 174.372 326.536
+\i (00:01:42) mouse_pos 176.789 328.953
+\i (00:01:42) mouse_pos 178.400 330.564
+\i (00:01:42) mouse_pos 181.354 329.758
+\i (00:01:42) mouse_pos 183.502 329.490
+\i (00:01:42) mouse_pos 186.993 328.953
+\i (00:01:42) mouse_pos 191.021 328.416
+\i (00:01:42) mouse_pos 194.512 328.416
+\i (00:01:42) mouse_pos 197.734 328.416
+\i (00:01:42) mouse_pos 200.420 328.147
+\i (00:01:42) mouse_pos 203.105 328.147
+\i (00:01:42) mouse_pos 205.790 328.147
+\i (00:01:42) mouse_pos 208.476 328.147
+\i (00:01:42) mouse_pos 211.161 328.147
+\i (00:01:42) mouse_pos 214.383 327.610
+\i (00:01:43) mouse_pos 216.531 326.536
+\i (00:01:43) mouse_pos 217.069 324.119
+\i (00:01:43) mouse_pos 217.337 321.971
+\i (00:01:43) mouse_pos 217.874 319.286
+\i (00:01:43) mouse_pos 217.874 315.795
+\i (00:01:43) mouse_pos 217.874 311.767
+\i (00:01:43) mouse_pos 217.069 309.618
+\i (00:01:43) mouse_pos 216.263 306.665
+\i (00:01:43) mouse_pos 215.189 303.711
+\i (00:01:43) mouse_pos 213.846 300.220
+\i (00:01:43) mouse_pos 211.698 297.266
+\i (00:01:43) mouse_pos 209.550 293.238
+\i (00:01:43) mouse_pos 206.596 288.941
+\i (00:01:43) mouse_pos 204.448 285.182
+\i (00:01:43) mouse_pos 202.836 280.348
+\i (00:01:43) mouse_pos 201.225 276.858
+\i (00:01:43) mouse_pos 200.420 273.367
+\i (00:01:43) mouse_pos 200.420 270.681
+\i (00:01:43) mouse_pos 199.882 268.533
+\i (00:01:43) mouse_pos 199.882 265.579
+\i (00:01:43) mouse_pos 199.882 262.625
+\i (00:01:43) mouse_pos 200.420 259.403
+\i (00:01:43) mouse_pos 201.494 256.718
+\i (00:01:43) mouse_pos 203.373 254.301
+\i (00:01:43) mouse_pos 204.985 252.690
+\i (00:01:43) mouse_pos 207.133 252.153
+\i (00:01:43) mouse_pos 210.087 252.690
+\i (00:01:43) mouse_pos 212.235 252.958
+\i (00:01:43) mouse_pos 215.189 253.227
+\i (00:01:43) mouse_pos 218.680 253.764
+\i (00:01:43) mouse_pos 221.365 254.569
+\i (00:01:43) mouse_pos 222.976 256.180
+\i (00:01:43) mouse_pos 222.976 258.866
+\i (00:01:43) mouse_pos 222.171 261.283
+\i (00:01:43) mouse_pos 222.171 263.699
+\i (00:01:43) mouse_pos 222.171 266.385
+\i (00:01:43) mouse_pos 222.171 269.070
+\i (00:01:43) mouse_pos 222.171 271.755
+\i (00:01:43) mouse_pos 222.171 274.978
+\i (00:01:43) mouse_pos 222.171 277.663
+\i (00:01:43) mouse_pos 222.171 281.154
+\i (00:01:43) mouse_pos 222.171 284.913
+\i (00:01:43) mouse_pos 222.171 288.941
+\i (00:01:43) mouse_pos 222.171 292.969
+\i (00:01:43) mouse_pos 221.634 296.460
+\i (00:01:43) mouse_pos 221.097 299.683
+\i (00:01:43) mouse_pos 220.828 303.174
+\i (00:01:43) mouse_pos 219.217 306.665
+\i (00:01:43) mouse_pos 218.143 309.618
+\i (00:01:43) mouse_pos 216.800 311.767
+\i (00:01:43) mouse_pos 215.994 314.184
+\i (00:01:43) mouse_pos 214.383 317.137
+\i (00:01:43) mouse_pos 212.503 319.286
+\i (00:01:43) mouse_pos 211.698 321.702
+\i (00:01:43) mouse_pos 209.818 324.119
+\i (00:01:43) mouse_pos 207.670 326.805
+\i (00:01:43) mouse_pos 206.327 329.490
+\i (00:01:43) mouse_pos 205.522 331.638
+\i (00:01:43) mouse_pos 205.253 334.592
+\i (00:01:43) mouse_pos 205.253 337.009
+\i (00:01:43) mouse_pos 205.253 340.768
+\i (00:01:44) mouse_pos 206.864 343.991
+\i (00:01:44) mouse_pos 208.744 346.139
+\i (00:01:44) mouse_pos 210.355 347.750
+\i (00:01:44) mouse_pos 213.578 348.824
+\i (00:01:44) mouse_pos 216.800 349.630
+\i (00:01:44) mouse_pos 218.948 350.167
+\i (00:01:44) mouse_pos 221.902 350.435
+\i (00:01:44) mouse_pos 225.930 350.435
+\i (00:01:44) mouse_pos 229.958 350.435
+\i (00:01:44) mouse_pos 234.255 350.435
+\i (00:01:44) mouse_pos 237.209 349.898
+\i (00:01:44) mouse_pos 239.357 349.093
+\i (00:01:44) mouse_pos 241.774 347.750
+\i (00:01:44) mouse_pos 242.848 345.870
+\i (00:01:44) mouse_pos 244.996 343.185
+\i (00:01:44) mouse_pos 246.876 340.500
+\i (00:01:44) mouse_pos 247.681 338.083
+\i (00:01:44) mouse_pos 248.487 335.129
+\i (00:01:44) mouse_pos 248.487 331.101
+\i (00:01:44) mouse_pos 248.487 327.610
+\i (00:01:44) mouse_pos 248.218 325.462
+\i (00:01:44) mouse_pos 247.413 323.314
+\i (00:01:44) mouse_pos 245.802 320.897
+\i (00:01:44) mouse_pos 244.190 319.286
+\i (00:01:44) mouse_pos 242.311 316.869
+\i (00:01:44) mouse_pos 240.431 315.258
+\i (00:01:44) mouse_pos 238.283 313.378
+\i (00:01:44) mouse_pos 235.060 310.693
+\i (00:01:44) mouse_pos 232.106 308.813
+\i (00:01:44) mouse_pos 228.615 307.202
+\i (00:01:44) mouse_pos 225.662 305.322
+\i (00:01:44) mouse_pos 222.708 303.711
+\i (00:01:44) mouse_pos 219.217 302.368
+\i (00:01:44) mouse_pos 216.263 301.831
+\i (00:01:44) mouse_pos 212.235 300.757
+\i (00:01:44) mouse_pos 208.744 299.683
+\i (00:01:44) mouse_pos 205.790 298.340
+\i (00:01:44) mouse_pos 201.762 295.655
+\i (00:01:44) mouse_pos 199.614 294.312
+\i (00:01:44) mouse_pos 197.734 292.432
+\i (00:01:44) mouse_pos 194.243 290.016
+\i (00:01:44) mouse_pos 191.021 287.330
+\i (00:01:44) mouse_pos 189.141 285.451
+\i (00:01:44) mouse_pos 187.261 283.839
+\i (00:01:44) mouse_pos 185.919 281.960
+\i (00:01:44) mouse_pos 183.502 279.274
+\i (00:01:44) mouse_pos 182.965 276.589
+\i (00:01:44) mouse_pos 182.159 274.441
+\i (00:01:44) mouse_pos 182.159 271.755
+\i (00:01:44) mouse_pos 182.428 268.533
+\i (00:01:44) mouse_pos 183.502 266.653
+\i (00:01:44) mouse_pos 185.113 264.774
+\i (00:01:44) mouse_pos 186.456 262.894
+\i (00:01:44) mouse_pos 188.067 260.746
+\i (00:01:44) mouse_pos 190.215 258.597
+\i (00:01:44) mouse_pos 192.632 256.718
+\i (00:01:44) mouse_pos 195.317 255.643
+\i (00:01:44) mouse_pos 197.466 254.838
+\i (00:01:44) mouse_pos 200.151 254.301
+\i (00:01:44) mouse_pos 202.568 254.301
+\i (00:01:44) mouse_pos 206.059 254.301
+\i (00:01:44) mouse_pos 211.161 255.643
+\i (00:01:44) mouse_pos 213.309 256.718
+\i (00:01:44) mouse_pos 215.189 258.329
+\i (00:01:44) mouse_pos 218.680 261.014
+\i (00:01:44) mouse_pos 220.022 263.431
+\i (00:01:44) mouse_pos 222.171 267.190
+\i (00:01:44) mouse_pos 222.976 270.144
+\i (00:01:44) mouse_pos 222.976 274.978
+\i (00:01:44) mouse_pos 222.976 277.663
+\i (00:01:44) mouse_pos 222.439 282.228
+\i (00:01:44) mouse_pos 220.559 284.645
+\i (00:01:44) mouse_pos 218.411 288.136
+\i (00:01:44) mouse_pos 215.457 291.895
+\i (00:01:44) mouse_pos 212.235 294.849
+\i (00:01:44) mouse_pos 208.476 298.609
+\i (00:01:44) mouse_pos 205.522 302.368
+\i (00:01:44) mouse_pos 202.299 305.322
+\i (00:01:45) mouse_pos 199.077 309.081
+\i (00:01:45) mouse_pos 195.586 312.304
+\i (00:01:45) mouse_pos 192.364 315.795
+\i (00:01:45) mouse_pos 189.141 319.017
+\i (00:01:45) mouse_pos 187.261 321.971
+\i (00:01:45) mouse_pos 184.845 324.388
+\i (00:01:45) mouse_pos 183.502 326.805
+\i (00:01:45) mouse_pos 181.622 328.953
+\i (00:01:45) mouse_pos 180.280 331.370
+\i (00:01:45) mouse_pos 178.937 334.055
+\i (00:01:45) mouse_pos 178.668 336.203
+\i (00:01:45) mouse_pos 179.474 338.620
+\i (00:01:45) mouse_pos 182.159 340.500
+\i (00:01:45) mouse_pos 184.039 341.842
+\i (00:01:45) mouse_pos 186.187 343.722
+\i (00:01:45) mouse_pos 189.141 345.065
+\i (00:01:45) mouse_pos 192.095 346.676
+\i (00:01:45) mouse_pos 195.586 347.750
+\i (00:01:45) mouse_pos 199.077 349.093
+\i (00:01:45) mouse_pos 203.105 349.093
+\i (00:01:45) mouse_pos 207.133 349.630
+\i (00:01:45) mouse_pos 210.624 350.167
+\i (00:01:45) mouse_pos 214.652 350.704
+\i (00:01:45) mouse_pos 217.874 350.704
+\i (00:01:45) mouse_pos 221.365 351.241
+\i (00:01:45) mouse_pos 224.587 351.241
+\i (00:01:45) mouse_pos 227.273 351.241
+\i (00:01:45) mouse_pos 232.106 350.973
+\i (00:01:45) mouse_pos 234.255 350.435
+\i (00:01:45) mouse_pos 238.820 348.287
+\i (00:01:45) mouse_pos 241.236 346.407
+\i (00:01:45) mouse_pos 244.190 343.185
+\i (00:01:45) mouse_pos 246.339 340.768
+\i (00:01:45) mouse_pos 248.487 338.889
+\i (00:01:45) mouse_pos 250.367 337.277
+\i (00:01:45) mouse_pos 251.709 334.861
+\i (00:01:45) mouse_pos 253.858 330.833
+\i (00:01:45) mouse_pos 254.663 326.536
+\i (00:01:45) mouse_pos 255.200 324.388
+\i (00:01:45) mouse_pos 255.737 321.702
+\i (00:01:45) mouse_pos 255.469 318.212
+\i (00:01:45) mouse_pos 255.200 316.063
+\i (00:01:45) mouse_pos 254.126 313.646
+\i (00:01:45) mouse_pos 252.783 311.498
+\i (00:01:45) mouse_pos 250.904 309.081
+\i (00:01:45) mouse_pos 248.487 307.202
+\i (00:01:45) mouse_pos 246.607 304.248
+\i (00:01:45) mouse_pos 242.848 301.563
+\i (00:01:45) mouse_pos 240.431 299.146
+\i (00:01:45) mouse_pos 237.477 296.997
+\i (00:01:45) mouse_pos 235.060 294.581
+\i (00:01:45) mouse_pos 232.106 292.701
+\i (00:01:45) mouse_pos 228.615 290.553
+\i (00:01:45) mouse_pos 224.856 288.136
+\i (00:01:45) mouse_pos 222.708 286.793
+\i (00:01:45) mouse_pos 219.485 284.108
+\i (00:01:45) mouse_pos 216.531 282.228
+\i (00:01:45) mouse_pos 214.115 279.274
+\i (00:01:45) mouse_pos 213.309 276.589
+\i (00:01:45) mouse_pos 212.772 274.441
+\i (00:01:45) mouse_pos 212.772 271.218
+\i (00:01:45) mouse_pos 212.503 269.070
+\i (00:01:45) mouse_pos 212.235 266.922
+\i (00:01:45) mouse_pos 212.772 264.505
+\i (00:01:45) mouse_pos 214.652 262.894
+\i (00:01:45) mouse_pos 216.800 261.551
+\i (00:01:45) mouse_pos 219.217 262.894
+\i (00:01:45) mouse_pos 221.902 263.968
+\i (00:01:45) mouse_pos 224.050 265.042
+\i (00:01:45) mouse_pos 226.199 267.727
+\i (00:01:45) mouse_pos 227.541 270.144
+\i (00:01:45) mouse_pos 228.347 272.292
+\i (00:01:45) mouse_pos 229.421 274.441
+\i (00:01:46) mouse_pos 229.421 277.126
+\i (00:01:46) mouse_pos 229.690 279.543
+\i (00:01:46) mouse_pos 229.690 281.960
+\i (00:01:46) mouse_pos 229.958 284.108
+\i (00:01:46) mouse_pos 230.764 286.256
+\i (00:01:46) mouse_pos 232.375 284.376
+\i (00:01:46) mouse_pos 233.449 282.497
+\i (00:01:46) mouse_pos 233.718 281.960
+\i (00:01:47) mouse_pos 237.209 280.348
+\i (00:01:47) mouse_pos 239.894 280.886
+\e (00:01:48) Command not found: doner
+\i (00:01:48) mouse_pos 242.848 278.469
+\i (00:01:48) mouse_pos 243.385 275.783
+\i (00:01:48) mouse_pos 243.922 271.755
+\i (00:01:48) mouse_pos 244.459 267.190
+\i (00:01:48) mouse_pos 246.070 261.551
+\i (00:01:48) mouse_pos 247.144 256.180
+\i (00:01:48) mouse_pos 249.292 250.810
+\i (00:01:48) mouse_pos 250.367 245.439
+\i (00:01:48) mouse_pos 251.978 241.948
+\i (00:01:48) mouse_pos 252.783 238.457
+\i (00:01:48) mouse_pos 253.320 236.309
+\i (00:01:48) mouse_pos 253.858 233.624
+\i (00:01:48) mouse_pos 254.663 231.207
+\i (00:01:48) mouse_pos 254.932 229.059
+\i (00:01:48) mouse_pos 255.469 226.910
+\i (00:01:48) mouse_pos 256.274 223.957
+\i (00:01:48) mouse_pos 256.543 221.003
+\i (00:01:48) mouse_pos 257.617 219.123
+\i (00:01:48) mouse_pos 259.497 217.243
+\i (00:01:48) mouse_pos 261.376 215.095
+\i (00:01:48) mouse_pos 263.256 213.752
+\i (00:01:48) mouse_pos 265.673 215.901
+\i (00:01:48) mouse_pos 267.553 217.243
+\i (00:01:48) mouse_pos 267.821 219.660
+\i (00:01:48) mouse_pos 267.821 222.345
+\i (00:01:48) mouse_pos 268.090 224.494
+\i (00:01:48) mouse_pos 268.627 227.985
+\i (00:01:48) mouse_pos 269.164 230.133
+\i (00:01:49) mouse_pos 269.432 232.281
+\i (00:01:49) mouse_pos 269.969 236.309
+\i (00:01:49) mouse_pos 269.969 239.800
+\i (00:01:49) mouse_pos 269.969 243.828
+\i (00:01:49) mouse_pos 269.969 247.319
+\i (00:01:49) mouse_pos 269.969 250.004
+\i (00:01:49) mouse_pos 269.969 252.690
+\i (00:01:49) mouse_pos 269.432 255.375
+\i (00:01:49) mouse_pos 269.432 258.597
+\i (00:01:49) mouse_pos 269.432 261.551
+\i (00:01:49) mouse_pos 269.432 263.968
+\i (00:01:49) mouse_pos 271.044 265.579
+\i (00:01:49) mouse_pos 273.460 266.385
+\i (00:01:49) mouse_pos 275.877 266.385
+\i (00:01:49) prepopup 277.757 266.385
+\i (00:01:49) done 
+\i (00:01:49) generaledit 
+\i (00:02:14) pick grid 212.235 317.406
+\t (00:02:14) last pick:  212.090 317.500
+\i (00:02:16) pick grid 292.258 336.740
+\t (00:02:16) last pick:  292.100 336.550
+\i (00:02:18) pick grid 244.996 339.963
+\t (00:02:18) last pick:  245.110 339.725
+\i (00:02:19) add connect 
+\t (00:02:19) Pick first element.
+\i (00:02:20) drag_start grid 292.795 347.482
+\i (00:02:20) drag_stop 307.296 344.796
+\i (00:02:20) pick grid 317.500 350.973
+\t (00:02:20) last pick:  317.500 351.155
+\t (00:02:20) last pick:  317.500 351.155
+\i (00:02:20) mouse_pos 317.500 350.973
+\i (00:02:21) mouse_pos 315.620 349.361
+\i (00:02:21) mouse_pos 312.666 349.361
+\i (00:02:21) mouse_pos 310.518 349.093
+\i (00:02:21) mouse_pos 308.101 349.093
+\i (00:02:21) add connect 
+\t (00:02:21) Pick first element.
+\i (00:02:22) drag_start grid 221.634 348.287
+\i (00:02:22) drag_stop 236.940 340.231
+\i (00:02:22) add connect 
+\t (00:02:22) Pick first element.
+\i (00:02:23) add connect 
+\t (00:02:23) Pick first element.
+\i (00:02:26) add connect 
+\t (00:02:26) Pick first element.
+\i (00:02:26) pick grid 192.901 328.953
+\t (00:02:26) last pick:  193.040 328.930
+\t (00:02:26) last pick:  193.040 328.930
+\i (00:02:26) mouse_pos 193.169 328.953
+\i (00:02:26) mouse_pos 193.169 325.462
+\i (00:02:26) mouse_pos 193.169 322.508
+\i (00:02:26) mouse_pos 193.169 319.017
+\i (00:02:26) mouse_pos 193.169 315.526
+\i (00:02:26) mouse_pos 193.438 312.035
+\i (00:02:26) mouse_pos 194.780 308.813
+\i (00:02:26) mouse_pos 195.049 305.322
+\i (00:02:26) mouse_pos 195.854 302.637
+\i (00:02:26) mouse_pos 196.123 300.220
+\i (00:02:27) mouse_pos 196.660 298.072
+\i (00:02:27) mouse_pos 196.660 295.655
+\i (00:02:27) mouse_pos 197.197 293.238
+\i (00:02:27) mouse_pos 197.197 290.821
+\i (00:02:27) mouse_pos 197.197 288.136
+\i (00:02:27) mouse_pos 197.197 285.182
+\i (00:02:27) mouse_pos 197.197 279.811
+\i (00:02:27) mouse_pos 197.197 277.126
+\i (00:02:27) mouse_pos 197.197 274.441
+\i (00:02:27) mouse_pos 197.197 271.755
+\i (00:02:27) mouse_pos 197.197 267.459
+\i (00:02:27) mouse_pos 197.197 265.042
+\i (00:02:27) mouse_pos 197.197 262.357
+\i (00:02:27) mouse_pos 197.197 259.671
+\i (00:02:27) mouse_pos 197.734 257.523
+\i (00:02:27) mouse_pos 199.614 255.375
+\i (00:02:27) mouse_pos 200.420 253.227
+\i (00:02:27) mouse_pos 202.031 251.347
+\i (00:02:27) mouse_pos 203.373 248.930
+\i (00:02:27) mouse_pos 204.448 247.050
+\i (00:02:27) mouse_pos 206.596 243.828
+\i (00:02:27) mouse_pos 209.281 241.948
+\i (00:02:27) mouse_pos 212.235 240.874
+\i (00:02:27) mouse_pos 215.189 240.874
+\i (00:02:27) mouse_pos 217.874 240.874
+\i (00:02:27) mouse_pos 220.022 241.411
+\i (00:02:27) mouse_pos 222.171 241.680
+\i (00:02:27) mouse_pos 224.319 243.559
+\i (00:02:27) mouse_pos 228.078 245.708
+\i (00:02:27) mouse_pos 229.690 247.587
+\i (00:02:27) mouse_pos 232.912 249.467
+\i (00:02:27) mouse_pos 235.866 251.884
+\i (00:02:27) mouse_pos 238.820 254.569
+\i (00:02:27) mouse_pos 242.579 257.255
+\i (00:02:27) mouse_pos 245.533 259.671
+\i (00:02:27) mouse_pos 248.487 262.088
+\i (00:02:27) mouse_pos 250.904 264.505
+\i (00:02:27) mouse_pos 253.320 266.116
+\i (00:02:27) mouse_pos 255.737 267.996
+\i (00:02:27) mouse_pos 258.154 270.950
+\i (00:02:27) mouse_pos 258.960 273.904
+\i (00:02:27) mouse_pos 258.960 278.737
+\i (00:02:28) mouse_pos 258.960 281.423
+\i (00:02:28) mouse_pos 258.960 284.645
+\i (00:02:28) mouse_pos 258.154 288.136
+\i (00:02:28) mouse_pos 256.811 291.090
+\i (00:02:28) mouse_pos 255.469 293.238
+\i (00:02:28) mouse_pos 253.052 295.655
+\i (00:02:28) mouse_pos 250.635 298.340
+\i (00:02:28) mouse_pos 246.876 300.757
+\i (00:02:28) mouse_pos 243.385 302.905
+\i (00:02:28) mouse_pos 239.625 305.322
+\i (00:02:28) mouse_pos 234.255 307.202
+\i (00:02:28) mouse_pos 229.421 309.887
+\i (00:02:28) mouse_pos 224.050 310.961
+\i (00:02:28) mouse_pos 221.365 311.230
+\i (00:02:28) mouse_pos 217.069 312.304
+\i (00:02:28) mouse_pos 213.041 312.304
+\i (00:02:28) mouse_pos 209.818 312.304
+\i (00:02:28) mouse_pos 206.596 312.304
+\i (00:02:28) mouse_pos 202.568 312.304
+\i (00:02:28) mouse_pos 199.882 312.035
+\i (00:02:28) mouse_pos 195.586 310.693
+\i (00:02:28) mouse_pos 192.632 308.544
+\i (00:02:28) mouse_pos 188.873 305.322
+\i (00:02:28) mouse_pos 185.919 302.905
+\i (00:02:28) mouse_pos 182.965 299.951
+\i (00:02:28) mouse_pos 180.817 296.192
+\i (00:02:28) mouse_pos 178.668 292.701
+\i (00:02:28) mouse_pos 177.863 289.210
+\i (00:02:28) mouse_pos 176.789 285.182
+\i (00:02:28) mouse_pos 176.252 281.691
+\i (00:02:28) mouse_pos 176.252 278.469
+\i (00:02:28) mouse_pos 176.252 274.441
+\i (00:02:28) mouse_pos 176.520 271.487
+\i (00:02:28) mouse_pos 176.789 266.116
+\i (00:02:28) mouse_pos 177.863 263.431
+\i (00:02:28) mouse_pos 180.011 259.671
+\i (00:02:28) mouse_pos 181.891 256.718
+\i (00:02:28) mouse_pos 184.308 254.301
+\i (00:02:28) mouse_pos 186.724 251.347
+\i (00:02:28) mouse_pos 189.947 248.662
+\i (00:02:28) mouse_pos 192.901 246.782
+\i (00:02:28) mouse_pos 197.466 244.902
+\i (00:02:28) mouse_pos 200.688 244.902
+\i (00:02:28) mouse_pos 203.910 244.902
+\i (00:02:28) mouse_pos 207.938 244.902
+\i (00:02:28) mouse_pos 211.966 245.708
+\i (00:02:28) mouse_pos 216.800 247.319
+\i (00:02:28) mouse_pos 221.902 250.541
+\i (00:02:28) mouse_pos 226.199 254.301
+\i (00:02:28) mouse_pos 229.690 257.523
+\i (00:02:28) mouse_pos 233.986 261.283
+\i (00:02:28) mouse_pos 237.746 264.505
+\i (00:02:28) mouse_pos 240.968 269.339
+\i (00:02:28) mouse_pos 242.579 272.292
+\i (00:02:28) mouse_pos 243.922 275.783
+\i (00:02:28) mouse_pos 243.922 279.274
+\i (00:02:28) mouse_pos 243.922 282.497
+\i (00:02:28) mouse_pos 243.922 285.182
+\i (00:02:28) mouse_pos 242.579 287.062
+\i (00:02:28) mouse_pos 239.625 290.284
+\i (00:02:28) mouse_pos 236.671 291.358
+\i (00:02:28) mouse_pos 233.449 291.627
+\i (00:02:28) mouse_pos 229.421 291.627
+\i (00:02:28) mouse_pos 224.050 291.627
+\i (00:02:28) mouse_pos 219.485 291.627
+\i (00:02:28) mouse_pos 214.652 289.747
+\i (00:02:28) mouse_pos 208.476 287.062
+\i (00:02:28) mouse_pos 204.716 283.302
+\i (00:02:28) mouse_pos 200.420 279.543
+\i (00:02:28) mouse_pos 197.734 274.172
+\i (00:02:28) mouse_pos 197.734 268.802
+\i (00:02:28) mouse_pos 197.734 264.236
+\i (00:02:28) mouse_pos 198.540 259.403
+\i (00:02:28) mouse_pos 200.688 255.912
+\i (00:02:28) mouse_pos 203.105 251.615
+\i (00:02:28) mouse_pos 206.327 248.662
+\i (00:02:28) mouse_pos 209.818 246.513
+\i (00:02:28) mouse_pos 214.652 243.828
+\i (00:02:28) mouse_pos 218.411 241.680
+\i (00:02:28) mouse_pos 222.976 240.606
+\i (00:02:28) mouse_pos 227.004 240.606
+\i (00:02:28) mouse_pos 230.495 240.874
+\i (00:02:28) mouse_pos 234.523 241.948
+\i (00:02:28) mouse_pos 238.820 245.171
+\i (00:02:28) mouse_pos 242.579 247.856
+\i (00:02:28) mouse_pos 245.533 250.810
+\i (00:02:28) mouse_pos 247.681 255.106
+\i (00:02:28) mouse_pos 248.755 259.134
+\i (00:02:28) mouse_pos 249.830 263.968
+\i (00:02:28) mouse_pos 249.830 267.190
+\i (00:02:28) mouse_pos 249.024 272.024
+\i (00:02:28) mouse_pos 246.876 276.052
+\i (00:02:28) mouse_pos 244.727 279.811
+\i (00:02:28) mouse_pos 241.774 282.765
+\i (00:02:28) mouse_pos 238.014 285.451
+\i (00:02:28) mouse_pos 235.060 288.404
+\i (00:02:28) mouse_pos 229.421 291.358
+\i (00:02:28) mouse_pos 223.513 292.969
+\i (00:02:28) mouse_pos 218.680 293.507
+\i (00:02:28) mouse_pos 214.115 294.044
+\i (00:02:28) mouse_pos 210.087 294.044
+\i (00:02:28) mouse_pos 206.059 293.238
+\i (00:02:28) mouse_pos 202.568 291.090
+\i (00:02:28) mouse_pos 198.808 287.867
+\i (00:02:28) mouse_pos 196.392 284.913
+\i (00:02:28) mouse_pos 194.243 282.497
+\i (00:02:28) mouse_pos 192.364 279.543
+\i (00:02:28) mouse_pos 191.021 276.589
+\i (00:02:28) mouse_pos 190.484 271.755
+\i (00:02:28) mouse_pos 190.484 269.339
+\i (00:02:28) mouse_pos 190.484 266.116
+\i (00:02:28) mouse_pos 190.484 263.431
+\i (00:02:29) mouse_pos 192.632 260.746
+\i (00:02:29) mouse_pos 193.706 258.597
+\i (00:02:29) mouse_pos 194.780 256.449
+\i (00:02:29) mouse_pos 193.169 254.569
+\i (00:02:29) mouse_pos 191.289 253.495
+\i (00:02:29) mouse_pos 187.798 253.495
+\i (00:02:29) mouse_pos 185.113 253.495
+\i (00:02:29) mouse_pos 181.085 253.495
+\i (00:02:29) mouse_pos 177.594 255.106
+\i (00:02:29) mouse_pos 174.640 256.449
+\i (00:02:29) mouse_pos 172.224 258.866
+\i (00:02:29) mouse_pos 169.538 262.088
+\i (00:02:29) mouse_pos 167.121 265.042
+\i (00:02:29) mouse_pos 164.705 267.996
+\i (00:02:29) mouse_pos 162.556 272.292
+\i (00:02:29) mouse_pos 160.945 275.783
+\i (00:02:29) mouse_pos 160.408 279.274
+\i (00:02:29) mouse_pos 159.871 282.497
+\i (00:02:29) mouse_pos 159.871 286.525
+\i (00:02:29) mouse_pos 159.871 289.210
+\i (00:02:29) mouse_pos 159.871 292.701
+\i (00:02:29) mouse_pos 160.140 295.386
+\i (00:02:29) mouse_pos 160.945 297.535
+\i (00:02:29) mouse_pos 162.019 299.951
+\i (00:02:29) mouse_pos 163.631 303.174
+\i (00:02:29) mouse_pos 164.973 305.322
+\i (00:02:29) mouse_pos 166.584 307.470
+\i (00:02:29) mouse_pos 167.927 309.350
+\i (00:02:29) mouse_pos 170.344 311.767
+\i (00:02:29) mouse_pos 173.029 312.841
+\i (00:02:29) mouse_pos 174.909 313.915
+\i (00:02:29) mouse_pos 177.057 313.646
+\i (00:02:29) mouse_pos 180.011 313.915
+\i (00:02:29) mouse_pos 183.233 313.915
+\i (00:02:29) mouse_pos 185.650 313.915
+\i (00:02:29) mouse_pos 187.530 312.841
+\i (00:02:29) mouse_pos 189.678 311.230
+\i (00:02:29) mouse_pos 191.289 309.081
+\i (00:02:29) mouse_pos 193.169 306.665
+\i (00:02:29) mouse_pos 195.586 304.248
+\i (00:02:29) mouse_pos 197.197 301.294
+\i (00:02:29) mouse_pos 199.077 298.340
+\i (00:02:29) mouse_pos 200.420 295.655
+\i (00:02:29) mouse_pos 202.031 292.701
+\i (00:02:29) mouse_pos 203.105 289.210
+\i (00:02:29) mouse_pos 203.910 285.719
+\i (00:02:29) mouse_pos 204.448 282.228
+\i (00:02:29) mouse_pos 204.985 278.200
+\i (00:02:29) mouse_pos 204.985 274.978
+\i (00:02:29) mouse_pos 204.985 271.487
+\i (00:02:29) mouse_pos 204.985 268.802
+\i (00:02:29) mouse_pos 204.985 266.116
+\i (00:02:29) mouse_pos 204.985 263.162
+\i (00:02:29) mouse_pos 204.985 260.746
+\i (00:02:30) mouse_pos 204.985 258.329
+\i (00:02:30) mouse_pos 204.448 255.375
+\i (00:02:30) mouse_pos 203.373 252.690
+\i (00:02:30) mouse_pos 203.105 250.541
+\i (00:02:30) mouse_pos 203.105 247.050
+\i (00:02:30) mouse_pos 203.105 244.097
+\i (00:02:30) mouse_pos 203.373 241.411
+\i (00:02:30) mouse_pos 205.253 238.994
+\i (00:02:30) mouse_pos 206.864 236.578
+\i (00:02:30) mouse_pos 208.744 234.429
+\i (00:02:30) mouse_pos 210.892 233.355
+\i (00:02:30) mouse_pos 213.041 232.013
+\i (00:02:30) mouse_pos 215.189 231.207
+\i (00:02:30) mouse_pos 217.606 230.133
+\i (00:02:30) mouse_pos 220.022 229.864
+\i (00:02:30) mouse_pos 222.171 229.327
+\i (00:02:30) mouse_pos 224.587 229.327
+\i (00:02:30) mouse_pos 227.004 230.401
+\i (00:02:30) mouse_pos 229.958 230.401
+\i (00:02:30) mouse_pos 232.106 230.938
+\i (00:02:30) mouse_pos 234.523 231.475
+\i (00:02:30) mouse_pos 236.403 233.087
+\i (00:02:30) mouse_pos 238.014 235.235
+\i (00:02:30) mouse_pos 239.894 237.652
+\i (00:02:30) mouse_pos 240.968 239.800
+\i (00:02:30) mouse_pos 241.774 242.485
+\i (00:02:30) mouse_pos 242.042 244.634
+\i (00:02:31) mouse_pos 242.042 247.856
+\i (00:02:31) mouse_pos 242.042 251.884
+\i (00:02:31) mouse_pos 242.579 254.301
+\i (00:02:31) mouse_pos 242.042 256.449
+\i (00:02:31) mouse_pos 241.236 259.134
+\i (00:02:31) mouse_pos 240.162 261.820
+\i (00:02:31) mouse_pos 239.357 263.968
+\i (00:02:31) mouse_pos 239.088 266.116
+\i (00:02:31) mouse_pos 237.746 267.996
+\i (00:02:31) mouse_pos 237.209 270.144
+\i (00:02:31) mouse_pos 236.403 272.292
+\i (00:02:31) mouse_pos 235.329 274.441
+\i (00:02:31) mouse_pos 234.255 276.858
+\i (00:02:31) mouse_pos 233.986 279.006
+\i (00:02:31) mouse_pos 233.986 279.274
+\i (00:02:32) pick grid 233.986 279.274
+\t (00:02:32) last pick:  233.680 279.400
+\t (00:02:32) No DRC errors detected.
+\t (00:02:32) Pick first element.
+\i (00:02:33) add connect 
+\t (00:02:33) Pick first element.
+\i (00:02:33) pick grid 171.687 272.024
+\t (00:02:33) last pick:  171.450 271.780
+\t (00:02:33) last pick:  171.450 271.780
+\i (00:02:33) mouse_pos 171.687 272.024
+\i (00:02:33) mouse_pos 181.085 273.367
+\i (00:02:33) mouse_pos 184.039 273.904
+\i (00:02:33) mouse_pos 187.530 274.172
+\i (00:02:33) mouse_pos 191.558 274.172
+\i (00:02:33) mouse_pos 193.706 274.709
+\i (00:02:33) mouse_pos 196.123 274.709
+\i (00:02:33) mouse_pos 198.540 274.709
+\i (00:02:34) mouse_pos 200.420 272.024
+\i (00:02:34) mouse_pos 202.299 269.876
+\i (00:02:34) mouse_pos 203.910 267.190
+\i (00:02:34) mouse_pos 204.985 264.774
+\i (00:02:34) mouse_pos 206.327 262.625
+\i (00:02:34) mouse_pos 206.864 259.671
+\i (00:02:34) mouse_pos 206.864 256.180
+\i (00:02:34) mouse_pos 206.864 252.690
+\i (00:02:34) mouse_pos 207.938 250.541
+\i (00:02:34) mouse_pos 208.207 248.393
+\i (00:02:34) mouse_pos 208.476 246.245
+\i (00:02:34) mouse_pos 208.476 243.828
+\i (00:02:34) mouse_pos 208.476 240.874
+\i (00:02:34) mouse_pos 209.550 238.189
+\i (00:02:34) mouse_pos 211.698 237.383
+\i (00:02:34) mouse_pos 214.115 237.383
+\i (00:02:34) mouse_pos 217.606 237.383
+\i (00:02:34) mouse_pos 220.828 237.383
+\i (00:02:34) mouse_pos 223.513 237.383
+\i (00:02:34) mouse_pos 227.541 237.383
+\i (00:02:34) mouse_pos 231.569 237.383
+\i (00:02:34) mouse_pos 234.792 237.383
+\i (00:02:34) mouse_pos 238.283 237.383
+\i (00:02:34) mouse_pos 240.968 237.383
+\i (00:02:34) mouse_pos 244.190 237.383
+\i (00:02:34) mouse_pos 246.876 237.383
+\i (00:02:34) mouse_pos 249.561 237.383
+\i (00:02:34) mouse_pos 253.052 237.383
+\i (00:02:34) mouse_pos 255.737 237.383
+\i (00:02:34) mouse_pos 258.154 237.115
+\i (00:02:34) mouse_pos 259.765 238.994
+\i (00:02:34) mouse_pos 259.765 241.948
+\i (00:02:34) mouse_pos 259.765 245.439
+\i (00:02:35) mouse_pos 258.691 249.736
+\i (00:02:35) mouse_pos 258.423 252.690
+\i (00:02:35) mouse_pos 257.348 255.375
+\i (00:02:35) mouse_pos 256.543 260.477
+\i (00:02:35) mouse_pos 256.006 262.625
+\i (00:02:35) mouse_pos 255.469 264.774
+\i (00:02:35) mouse_pos 255.469 267.190
+\i (00:02:35) mouse_pos 255.469 269.876
+\i (00:02:35) mouse_pos 255.200 272.292
+\i (00:02:35) mouse_pos 254.932 274.709
+\i (00:02:35) mouse_pos 254.932 277.126
+\i (00:02:35) mouse_pos 254.932 279.274
+\i (00:02:36) pick grid 254.932 279.274
+\t (00:02:36) last pick:  254.635 279.400
+\t (00:02:36) No DRC errors detected.
+\t (00:02:36) Pick first element.
+\i (00:02:37) pick grid 192.901 248.662
+\t (00:02:37) last pick:  193.040 248.920
+\t (00:02:37) Pick first element.
+\t (00:02:37) last pick:  193.040 248.920
+\i (00:02:37) mouse_pos 198.808 247.319
+\i (00:02:37) mouse_pos 201.762 247.319
+\i (00:02:37) mouse_pos 204.448 247.319
+\i (00:02:37) mouse_pos 207.938 247.319
+\i (00:02:37) mouse_pos 211.966 247.319
+\i (00:02:37) mouse_pos 214.652 247.319
+\i (00:02:37) mouse_pos 217.337 247.319
+\i (00:02:37) mouse_pos 221.365 247.319
+\i (00:02:37) mouse_pos 224.050 247.319
+\i (00:02:37) mouse_pos 228.884 247.319
+\i (00:02:37) mouse_pos 232.106 247.319
+\i (00:02:37) mouse_pos 235.329 247.319
+\i (00:02:37) mouse_pos 239.088 247.319
+\i (00:02:37) mouse_pos 242.042 247.319
+\i (00:02:37) mouse_pos 244.996 247.319
+\i (00:02:37) mouse_pos 247.950 247.319
+\i (00:02:37) mouse_pos 250.904 247.319
+\i (00:02:37) mouse_pos 253.589 247.319
+\i (00:02:37) mouse_pos 255.737 247.050
+\i (00:02:37) mouse_pos 258.154 246.782
+\i (00:02:37) mouse_pos 260.839 246.782
+\i (00:02:37) mouse_pos 263.525 245.708
+\i (00:02:37) mouse_pos 266.210 245.708
+\i (00:02:37) mouse_pos 269.701 245.439
+\i (00:02:37) mouse_pos 274.535 245.439
+\i (00:02:37) mouse_pos 279.100 245.439
+\i (00:02:37) mouse_pos 282.053 245.171
+\i (00:02:37) mouse_pos 284.470 245.171
+\i (00:02:37) mouse_pos 284.470 247.587
+\i (00:02:37) mouse_pos 284.470 250.541
+\i (00:02:37) mouse_pos 284.470 252.958
+\i (00:02:37) mouse_pos 284.202 255.643
+\i (00:02:37) mouse_pos 284.202 258.329
+\i (00:02:37) mouse_pos 284.202 260.746
+\i (00:02:37) mouse_pos 284.202 263.699
+\i (00:02:37) mouse_pos 283.933 266.385
+\i (00:02:37) mouse_pos 283.933 268.802
+\i (00:02:37) mouse_pos 283.933 271.218
+\i (00:02:38) mouse_pos 284.202 273.635
+\i (00:02:38) mouse_pos 284.470 275.783
+\i (00:02:38) mouse_pos 286.887 276.052
+\i (00:02:38) mouse_pos 289.841 276.052
+\i (00:02:38) mouse_pos 293.869 276.052
+\i (00:02:38) mouse_pos 296.823 276.052
+\i (00:02:38) mouse_pos 299.508 275.515
+\i (00:02:38) mouse_pos 302.193 274.978
+\i (00:02:38) mouse_pos 304.879 274.978
+\i (00:02:38) mouse_pos 307.564 274.978
+\i (00:02:38) mouse_pos 310.249 274.978
+\i (00:02:38) mouse_pos 312.935 274.978
+\i (00:02:38) mouse_pos 315.083 274.709
+\i (00:02:38) mouse_pos 318.037 274.709
+\i (00:02:38) mouse_pos 320.185 272.830
+\i (00:02:38) mouse_pos 320.454 269.876
+\i (00:02:38) mouse_pos 320.454 267.190
+\i (00:02:38) mouse_pos 320.454 264.505
+\i (00:02:38) mouse_pos 320.454 261.820
+\i (00:02:38) mouse_pos 320.454 259.134
+\i (00:02:38) mouse_pos 320.454 254.301
+\i (00:02:38) mouse_pos 321.259 251.615
+\i (00:02:38) mouse_pos 321.259 249.199
+\i (00:02:38) mouse_pos 321.259 246.782
+\i (00:02:38) mouse_pos 323.407 245.708
+\i (00:02:38) mouse_pos 326.630 245.708
+\i (00:02:38) mouse_pos 330.121 245.708
+\i (00:02:38) mouse_pos 333.612 245.708
+\i (00:02:38) mouse_pos 337.103 245.708
+\i (00:02:38) mouse_pos 340.057 245.708
+\i (00:02:38) mouse_pos 343.010 245.708
+\i (00:02:38) mouse_pos 345.696 245.708
+\i (00:02:38) mouse_pos 348.112 245.708
+\i (00:02:38) mouse_pos 350.798 245.708
+\i (00:02:39) mouse_pos 353.752 245.439
+\i (00:02:39) mouse_pos 356.168 245.439
+\i (00:02:39) mouse_pos 358.854 245.439
+\i (00:02:39) mouse_pos 360.196 247.587
+\i (00:02:39) mouse_pos 359.659 249.736
+\i (00:02:39) mouse_pos 359.391 252.690
+\i (00:02:39) mouse_pos 358.854 254.838
+\i (00:02:39) mouse_pos 358.048 256.986
+\i (00:02:39) mouse_pos 357.780 259.134
+\i (00:02:39) mouse_pos 357.243 262.088
+\i (00:02:39) mouse_pos 356.974 264.236
+\i (00:02:39) mouse_pos 356.437 266.385
+\i (00:02:39) mouse_pos 356.437 268.802
+\i (00:02:39) mouse_pos 358.317 269.876
+\i (00:02:39) mouse_pos 361.271 269.876
+\i (00:02:39) mouse_pos 365.299 269.876
+\i (00:02:39) mouse_pos 369.058 269.876
+\i (00:02:39) mouse_pos 372.280 269.876
+\i (00:02:39) mouse_pos 374.966 269.876
+\i (00:02:39) mouse_pos 377.383 269.876
+\i (00:02:39) mouse_pos 378.725 267.996
+\i (00:02:39) mouse_pos 379.531 265.848
+\i (00:02:39) mouse_pos 381.142 262.625
+\i (00:02:39) mouse_pos 381.411 259.134
+\i (00:02:39) mouse_pos 381.948 256.986
+\i (00:02:39) mouse_pos 381.948 253.227
+\i (00:02:39) mouse_pos 381.948 250.810
+\i (00:02:40) pick grid 381.948 250.810
+\t (00:02:40) last pick:  381.635 250.825
+\t (00:02:40) No DRC errors detected.
+\t (00:02:40) last pick:  381.948 250.810
+\i (00:02:40) mouse_pos 381.948 250.541
+\i (00:02:40) mouse_pos 381.948 248.125
+\i (00:02:40) mouse_pos 381.679 245.439
+\i (00:02:40) mouse_pos 381.411 243.291
+\i (00:02:40) mouse_pos 380.605 240.069
+\i (00:02:40) mouse_pos 378.994 238.457
+\i (00:02:40) mouse_pos 377.383 235.503
+\i (00:02:40) mouse_pos 376.040 233.624
+\i (00:02:40) mouse_pos 374.160 230.670
+\i (00:02:40) mouse_pos 371.743 228.790
+\i (00:02:40) mouse_pos 369.327 226.910
+\i (00:02:40) mouse_pos 366.641 225.031
+\i (00:02:40) mouse_pos 364.762 223.420
+\i (00:02:40) mouse_pos 361.539 221.808
+\i (00:02:40) mouse_pos 359.122 221.540
+\i (00:02:40) mouse_pos 355.900 221.271
+\i (00:02:40) mouse_pos 352.946 221.271
+\i (00:02:40) mouse_pos 348.381 221.271
+\i (00:02:40) mouse_pos 343.010 221.271
+\i (00:02:40) mouse_pos 338.177 221.808
+\i (00:02:40) mouse_pos 333.612 222.882
+\i (00:02:40) mouse_pos 328.241 223.957
+\i (00:02:40) mouse_pos 322.333 224.494
+\i (00:02:40) mouse_pos 317.500 225.031
+\i (00:02:40) mouse_pos 312.129 225.568
+\i (00:02:40) mouse_pos 308.370 225.568
+\i (00:02:40) mouse_pos 303.536 226.105
+\i (00:02:40) mouse_pos 300.851 226.642
+\i (00:02:41) mouse_pos 297.360 226.642
+\i (00:02:41) mouse_pos 294.674 227.179
+\i (00:02:41) mouse_pos 291.184 227.448
+\i (00:02:41) mouse_pos 288.498 227.985
+\i (00:02:41) mouse_pos 285.276 227.985
+\i (00:02:41) mouse_pos 283.128 228.522
+\i (00:02:41) mouse_pos 280.442 229.327
+\i (00:02:41) mouse_pos 278.294 229.864
+\i (00:02:41) mouse_pos 276.951 231.744
+\i (00:02:41) mouse_pos 276.951 234.429
+\i (00:02:41) mouse_pos 276.683 236.578
+\i (00:02:41) mouse_pos 277.220 238.726
+\i (00:02:41) mouse_pos 277.757 241.411
+\i (00:02:41) mouse_pos 278.025 243.828
+\i (00:02:41) mouse_pos 278.294 245.976
+\i (00:02:41) mouse_pos 278.294 248.393
+\i (00:02:41) mouse_pos 278.563 250.541
+\i (00:02:42) pick grid 278.563 250.541
+\t (00:02:42) last pick:  278.765 250.825
+\t (00:02:42) No DRC errors detected.
+\t (00:02:42) last pick:  278.563 250.541
+\i (00:02:42) mouse_pos 278.831 251.884
+\i (00:02:42) mouse_pos 282.591 248.930
+\i (00:02:42) mouse_pos 284.470 246.513
+\i (00:02:42) mouse_pos 286.081 244.634
+\i (00:02:42) mouse_pos 287.961 243.022
+\i (00:02:42) mouse_pos 290.378 240.606
+\i (00:02:42) mouse_pos 293.063 237.383
+\i (00:02:42) mouse_pos 296.017 234.966
+\i (00:02:42) mouse_pos 298.434 233.087
+\i (00:02:42) mouse_pos 301.388 230.938
+\i (00:02:42) mouse_pos 304.342 229.596
+\i (00:02:42) mouse_pos 306.490 228.790
+\i (00:02:42) mouse_pos 308.638 228.253
+\i (00:02:42) mouse_pos 311.324 228.253
+\i (00:02:42) mouse_pos 314.009 228.253
+\i (00:02:42) mouse_pos 316.157 228.790
+\i (00:02:42) mouse_pos 318.305 227.716
+\i (00:02:42) mouse_pos 320.454 226.105
+\i (00:02:43) mouse_pos 322.333 225.031
+\i (00:02:43) mouse_pos 324.482 224.494
+\i (00:02:43) prepopup 325.287 225.568
+\i (00:02:44) cancel 
+\i (00:02:44) generaledit 
+\i (00:02:46) open 
+\e (00:02:47) Do you want to save the changes you made to demob22.brd?
+\i (00:02:53) fillin no 
+\i (00:02:56) fillin "C:\Users\user\Desktop\vscode_orcad\workspace\dip14,demo\democ\democ2.brd"
+\i (00:02:56) cd "C:\Users\user\Desktop\vscode_orcad\workspace\dip14,demo\democ"
+\t (00:02:56) Opening existing design...
+\i (00:02:56) trapsize 285
+\t (00:02:56)     Journal end - Thu Jul 18 09:47:00 2019
